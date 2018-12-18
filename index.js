@@ -6,4 +6,14 @@ function whisper(string) {
 
 }
 
-function logShout()
+function logShout(string) {
+
+}
+
+function logWhisper(string) {
+
+}
+
+function sayHiToGrandma(string) {
+  
+}
